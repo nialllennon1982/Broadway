@@ -1,4 +1,4 @@
-.header {
+.header-image {
     background-image: url(../images/the-flatiron-building.png);
     text-align: center;
     color: white;
@@ -18,15 +18,35 @@ h2 {
 
   font-size: 32px;
   font-weight: bold;
+  font-family: Helvetica;
 }
 
 h3 {
 
   font-size: 23px;
   font-weight: bold;
+  font-family: Helvetica;
 
 }
 
 .supporting-item p {
     font-size: 14px;
+    font-family: Helvetica;
+}
+
+.mid-image {
+
+  background-image: url(../images/the-flatiron-building.png);
+  text-align: center;
+  color: white;
+
+}
+
+.mid-image h2 {
+
+    font-family: Helvetica;
+    font-size: 23px;
+    color: white;
+    font-weight: bold;
+
 }
