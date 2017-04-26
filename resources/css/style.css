@@ -9,3 +9,24 @@
     font-size: 18px;
     color: white;
 }
+
+.supporting {
+    text-align: center;
+}
+
+h2 {
+
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+
+  font-size: 23px;
+  font-weight: bold;
+
+}
+
+.supporting-item p {
+    font-size: 14px;
+}
